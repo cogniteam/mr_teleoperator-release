@@ -1,0 +1,12 @@
+Source: ros-hydro-mr-teleoperator
+Section: misc
+Priority: extra
+Maintainer: Igor Makhtes <igor@cogniteam.com>
+Build-Depends: debhelper (>= 7.0.50~), ros-hydro-catkin
+Homepage: http://www.ros.org/wiki/mr_teleoperator
+Standards-Version: 3.9.2
+
+Package: ros-hydro-mr-teleoperator
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-mr-rqt, ros-hydro-mr-tools
+Description: Multi-robot teleoperation package collection
