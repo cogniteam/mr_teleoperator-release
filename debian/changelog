@@ -1,0 +1,36 @@
+ros-hydro-mr-tools (0.2.2-0quantal) quantal; urgency=high
+
+
+
+ -- Igor Makhtes <igor@cogniteam.com>  Tue, 03 Dec 2013 22:00:00 -0000
+
+ros-hydro-mr-tools (0.2.1-0quantal) quantal; urgency=high
+
+
+
+ -- Igor Makhtes <igor@cogniteam.com>  Tue, 03 Dec 2013 22:00:00 -0000
+
+ros-hydro-mr-tools (0.2.0-0quantal) quantal; urgency=high
+
+  * Update teleoperator.launch
+  * install fixed
+  * 'joystick_publisher' node changed to 'joystick_teleoperator'
+  * Information and version updated
+  * tabs replaced by spaces
+  * 
+    
+      * mr_tools uses VelocityDispatcher instead of mr_teleoperator
+      * joystick_publisher now publishes geometry_msgs/Twist message directly
+      * new launch file created
+    
+  * CMakeLists updated
+  * deprecated
+  * VelocityDispatcher (replaces MrTeleoperator) created
+  * Joystick node publishes Twist message directly
+  * mr_tools launch install added in CMakeLists.txt
+  * Initial commit
+  * Contributors: Igor Makhtes, Tommy
+
+ -- Igor Makhtes <igor@cogniteam.com>  Tue, 03 Dec 2013 22:00:00 -0000
+
+
