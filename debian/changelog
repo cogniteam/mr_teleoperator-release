@@ -1,0 +1,65 @@
+ros-hydro-mr-tools (0.2.5-0precise) precise; urgency=high
+
+  * Changelogs removed
+  * Changelog recreated
+  * Changelogs removed
+  * Contributors: Igor Makhtes
+
+ -- Igor Makhtes <igor@cogniteam.com>  Sat, 07 Dec 2013 22:00:00 -0000
+
+ros-hydro-mr-tools (0.2.4-0precise) precise; urgency=high
+
+  * "0.2.4"
+  * Changelogs update
+  * Contributors: Igor Makhtes
+
+ -- Igor Makhtes <igor@cogniteam.com>  Sat, 07 Dec 2013 22:00:00 -0000
+
+ros-hydro-mr-tools (0.2.3-0precise) precise; urgency=high
+
+  * "0.2.3"
+  * Changelogs updated
+  * Contributors: Igor Makhtes
+
+ -- Igor Makhtes <igor@cogniteam.com>  Wed, 04 Dec 2013 13:52:00 -0000
+
+ros-hydro-mr-tools (0.2.2-0precise) precise; urgency=high
+
+  * "0.2.2"
+  * Changelogs updated
+  * Contributors: Igor Makhtes
+
+ -- Igor Makhtes <igor@cogniteam.com>  Wed, 04 Dec 2013 13:46:00 -0000
+
+ros-hydro-mr-tools (0.2.1-0precise) precise; urgency=high
+
+  * "0.2.1"
+  * Changelogs created
+  * Contributors: cogni
+
+ -- Igor Makhtes <igor@cogniteam.com>  Wed, 04 Dec 2013 12:41:00 -0000
+
+ros-hydro-mr-tools (0.2.0-0precise) precise; urgency=high
+
+  * Update teleoperator.launch
+  * install fixed
+  * 'joystick_publisher' node changed to 'joystick_teleoperator'
+  * Information and version updated
+  * tabs replaced by spaces
+  * 
+    
+      * mr_tools uses VelocityDispatcher instead of mr_teleoperator
+      * joystick_publisher now publishes geometry_msgs/Twist message directly
+      * new launch file created
+    
+  * CMakeLists updated
+  * deprecated
+  * VelocityDispatcher (replaces MrTeleoperator) created
+  * Joystick node publishes Twist message directly
+  * mr_tools launch install added in CMakeLists.txt
+  * Initial commit
+  * Contributors: Igor Makhtes, Tommy
+
+ -- Igor Makhtes <igor@cogniteam.com>  Wed, 04 Dec 2013 12:21:00 -0000
+
+
