@@ -1,0 +1,64 @@
+ros-hydro-mr-rqt (0.2.6-1quantal) quantal; urgency=high
+
+  * dockable teleop widgets
+  * Contributors: Igor Makhtes
+
+ -- Igor Makhtes <igor@cogniteam.com>  Tue, 24 Dec 2013 22:00:00 -0000
+
+ros-hydro-mr-rqt (0.2.5-1quantal) quantal; urgency=high
+
+  * Changelogs removed
+  * Changelog recreated
+  * Changelogs removed
+  * Contributors: Igor Makhtes
+
+ -- Igor Makhtes <igor@cogniteam.com>  Sat, 07 Dec 2013 22:00:00 -0000
+
+ros-hydro-mr-rqt (0.2.4-1quantal) quantal; urgency=high
+
+  * "0.2.4"
+  * Changelogs update
+  * cpp files moved to src/mr_rqt
+  * Contributors: Igor Makhtes
+
+ -- Igor Makhtes <igor@cogniteam.com>  Sat, 07 Dec 2013 22:00:00 -0000
+
+ros-hydro-mr-rqt (0.2.3-1quantal) quantal; urgency=high
+
+  * "0.2.3"
+  * Changelogs updated
+  * Contributors: Igor Makhtes
+
+ -- Igor Makhtes <igor@cogniteam.com>  Wed, 04 Dec 2013 13:52:00 -0000
+
+ros-hydro-mr-rqt (0.2.2-1quantal) quantal; urgency=high
+
+  * "0.2.2"
+  * Changelogs updated
+  * Contributors: Igor Makhtes
+
+ -- Igor Makhtes <igor@cogniteam.com>  Wed, 04 Dec 2013 13:46:00 -0000
+
+ros-hydro-mr-rqt (0.2.1-1quantal) quantal; urgency=high
+
+  * "0.2.1"
+  * Changelogs created
+  * Contributors: cogni
+
+ -- Igor Makhtes <igor@cogniteam.com>  Wed, 04 Dec 2013 12:41:00 -0000
+
+ros-hydro-mr-rqt (0.2.0-1quantal) quantal; urgency=high
+
+  * Shutdown exception fixed
+  * Information and version updated
+  * Keyboard and Mouse control implemented
+  * src/mr_rqt directory created (must exists for make install to success)
+  * mr_rqt make install fixed
+  * Update package.xml
+  * Update package.xml
+  * Initial commit
+  * Contributors: Igor M., Igor Makhtes, cogniteam
+
+ -- Igor Makhtes <igor@cogniteam.com>  Wed, 04 Dec 2013 12:21:00 -0000
+
+
